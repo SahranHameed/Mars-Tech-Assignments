@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+    border: 10px solid white;
+   }
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-family: libre Baskerville,serif;
+}
+
+.poster{
+    width: 50%;
+    margin: 25%;
+    margin-top: 100%;
+    color: white;
+    text-align: center;
+    
+}
